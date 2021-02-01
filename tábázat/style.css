@@ -1,0 +1,67 @@
+table
+{
+	border-radius: 2%;
+	border: 2px;
+	text-align: center;
+	border-style: solid;
+	border-color: lightgrey;
+	border-width: 2px;
+	
+    width:500px;
+    height:300px;
+		
+	
+}
+
+
+
+td
+{
+	border-radius: 8%;
+	border: 2px;
+	text-align: center;
+	border-style: solid;
+	background-color:rgba(151, 150, 209, 0.575);
+	padding-top:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+	padding-left:5px;
+	vertical-align:center;
+	
+}
+#red
+
+{
+	color: red;
+	border-color: black
+	
+}
+
+#vkek
+
+{
+	border-color: black;
+	background-color: rgba(106, 105, 207, 0.575);
+}
+
+#skek
+
+{
+	border-color: black;
+	background-color: rgba(14, 12, 128, 0.575);
+}
+#vgray
+
+{
+	border-color: black;
+	background-color: rgba(55, 55, 56, 0.575);
+}
+#sgray
+
+{
+	border-color: black;
+	background-color: rgba(115, 115, 117, 0.575);
+}
+
+
+
